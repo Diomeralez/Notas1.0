@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Notes1.0</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_ayuda">Ayuda</string>
+
+    <string name="nota">Note!</string>
+    <string name="porcentaje">Percentage!</string>
+    <string name="transcurrido">Lapsed!</string>
+    <string name="acomulado">Acomulado!</string>
+    <string name="promedio">Average!</string>
+    <string name="nota_sacar">Take Note!</string>
+
+    <string name="procesar">Process!</string>
+    <string name="reiniciar">Restart!</string>
+    <string name="ayuda">Help!</string>
+    <string name="volver">Return!</string>
+
+    <string name="salir">Exit!</string>
+
+
+    <string name="falla">In case of failure restart the application</string>
+</resources>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Notas1.0</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_ayuda">Ayuda</string>
+
+    <string name="nota">Nota!</string>
+    <string name="porcentaje">Porcentaje!</string>
+    <string name="transcurrido">Transcurrido!</string>
+    <string name="acomulado">Acomulado!</string>
+    <string name="promedio">Promedio!</string>
+    <string name="nota_sacar">Nota Sacar!</string>
+
+    <string name="procesar">Procesar!</string>
+    <string name="reiniciar">Reiniciar!</string>
+    <string name="ayuda">Ayuda!</string>
+    <string name="volver">Volver!</string>
+
+    <string name="salir">Salir!</string>
+    <string name="falla">En caso de fallas REINICIE la aplicacion</string>
+</resources>
